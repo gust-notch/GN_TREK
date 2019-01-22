@@ -1,19 +1,15 @@
 # GN_TREK
-Trek game for PetitComputer (Petitcom mkII)
-
-Star Trek for Petit Computer
+The Star Trek game for PetitComputer (Petitcom mkII)
 
 ## Introduction
 
 This is the Star Trek, an old well known computer game, for Petit Computer. This program is based on the Mike Mayfield's HP BASIC code.
 
 Petit Computer is a BASIC programming environment DSiWare that works on Nintendo DSi/3DS.
-In Japan, "SmileBASIC" for 3DS is released on 2014-11-19. It will be available on Spring 2015 in other regions. I will port this again to the new one after a while.
+A port for "Petitcom 3rd", "Smilebasic" in other regions, is availabe but I lost URL for that!
 
 ### Version 0.3
 In order to avoid copyright issues, the title is "TREK" and the name of enemy is "KLILIN".
-
-Enemies move around in the quadrant since Ver. 0.3.2
 
 You can play with both stylus and buttons.
 
@@ -24,7 +20,6 @@ You can play with both stylus and buttons.
     L: set cursor to "WARP"
     R: set cursor to "5"
     L+R+X: quit
-
 
 ### Version 0.3.2
 Enemies become moving around in their quadrant from Ver. 0.3.2. 
